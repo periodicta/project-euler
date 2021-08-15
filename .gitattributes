@@ -1,2 +1,2 @@
-*.md linguist-language=true
+*.md linguist-detectable=true
 README.md linguist-documentation=false
