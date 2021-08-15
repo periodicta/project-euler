@@ -1,0 +1,2 @@
+*.md linguist-language=true
+README.md linguist-documentation=false
